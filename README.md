@@ -17,7 +17,7 @@ This script is intended for users of Plasma's KWin 6. It allows to:
    ```
 - then run
    ```
-     kpackagetool6 --type=KWin/Script --install ./package/
+     kpackagetool6 --type=KWin/Script --install ./desktop-back-and-forth/package/
    ```
 - The script can then be activated in Plasma's System Settings application, in 'Window Management'>'KWin Scripts'
 
