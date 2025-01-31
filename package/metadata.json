@@ -1,0 +1,20 @@
+{
+    "KPlugin": {
+        "Name": "Desktop back-and-forth",
+        "Description": "KWin script to switch, or move window, to previously active virtual desktop",
+        "Icon": "preferences-system-windows-script-test",
+
+        "Authors": [
+            {
+                "Name": "Stephane Coulomb"
+            }
+        ],
+        "Id": "desktop-back-and-forth",
+        "Version": "1.0",
+        "License": "GPL-2.0+",
+        "Website": "https://github.com/stephane-coulomb/desktop-back-and-forth"
+    },
+    "X-Plasma-API": "javascript",
+    "X-Plasma-MainScript": "code/main.js",
+    "KPackageStructure": "KWin/Script"
+}
